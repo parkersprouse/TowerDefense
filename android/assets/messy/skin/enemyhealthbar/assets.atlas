@@ -1,0 +1,20 @@
+
+assets.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+health
+  rotate: false
+  xy: 68, 7
+  size: 54, 15
+  orig: 54, 15
+  offset: 0, 0
+  index: -1

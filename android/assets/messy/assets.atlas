@@ -1,0 +1,76 @@
+
+assets.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TempYouSuck
+  rotate: false
+  xy: 2, 316
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+cannon_level1
+  rotate: false
+  xy: 1924, 1332
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 2, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+gun_level1
+  rotate: false
+  xy: 1004, 250
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+gun_level2
+  rotate: false
+  xy: 1924, 1266
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+healthBG
+  rotate: false
+  xy: 1004, 228
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+healthBar
+  rotate: false
+  xy: 1990, 1386
+  size: 54, 10
+  orig: 54, 10
+  offset: 0, 0
+  index: -1
+lazer_level1
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 134
+  size: 1000, 180
+  orig: 1000, 180
+  offset: 0, 0
+  index: -1
+oldgun_level1
+  rotate: false
+  xy: 68, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

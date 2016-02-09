@@ -1,0 +1,48 @@
+
+assets.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CannonrBASE
+  rotate: false
+  xy: 2, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+CannonrGUN
+  rotate: false
+  xy: 518, 326
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+GunBASE
+  rotate: false
+  xy: 2, 134
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+GunGUN
+  rotate: false
+  xy: 260, 134
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LazerBASE
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+LazerGUN
+  rotate: false
+  xy: 68, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
