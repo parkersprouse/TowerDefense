@@ -6,4 +6,4 @@ There's one level in the game, and ten waves of enemies on that level. It's very
 - Parker Sprouse - Programmer / Designer
 - Berkley Bristow - Artist
 
-Most recent build - [Download](http://parkersprouse.me/games/td/build/TowerDefense.jar)
+Most recent build - [Download](https://github.com/parkersprouse/TowerDefense/releases/tag/v0.1.0-prototype)
